@@ -1,8 +1,8 @@
 
-#### Hey! 👋 I'm a Northcoders Software Engineering graduate, currently based in the North East of the UK 😊⛅
+#### Hey! 👋 I'm a Junior Developer currently based in the North East of the UK 😊⛅
 
 A little bit about me:
-- Languages: JavaScript using Node.js and browsers as environment, Structured Query Language (SQL)
+- Languages: JavaScript using Node.js and browsers as environment, TypeScript, Structured Query Language (SQL)
 - Testing: TDD (Test Driven Development), Jest, Supertest
 - Front-end: HTML, CSS, React, React Native 
 - Hosting: Cloudflare, Netlify, Render
