@@ -1,5 +1,5 @@
 
-#### Hey! 👋 I'm a Junior Developer currently based in the North East of the UK 😊⛅
+#### Hey! 👋 I'm a Software Developer currently based in the North East of the UK 😊⛅
 
 A little bit about me:
 - Languages: JavaScript using Node.js and browsers as environment, TypeScript, Structured Query Language (SQL)
